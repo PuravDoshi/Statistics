@@ -74,11 +74,6 @@ All 26 questions below were answered using practical statistical techniques, Pyt
 
 ---
 
-## 📁 File Structure
-📦Statistics/
-┣ 📜 descriptive_stats.ipynb ← Contains full implementation and answers
-┗ 📜 README.md ← This file
-
 
 ## 🚀 How to Run
 Clone the repository:
